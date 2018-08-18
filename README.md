@@ -12,7 +12,7 @@ Projeto para a disciplina de **Projeto de Software** 2018.1
  **Autores:**
  -  [Caio Sanches](http://github.com/caiosbl) 
  - [Marcelo Gabriel](https://github.com/marcelovitorino)
- - [Thiago Santos](https://github.com/thiagosantos18)
+ - [Thiago Moura](https://github.com/thiagomoura21)
  - [Gabriel Almeida](https://github.com/GabrielAlmeidaAzevedo)
 
 
